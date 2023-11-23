@@ -18,18 +18,18 @@ and timestamps for the first and last entries of each level.
 
 
 ## Sample Output
-Total number of log entries: 3
-INFO entries: 1
-First entry timestamp: 2023-07-15 14:12:33
-Last entry timestamp: 2023-07-15 14:12:33
+Total number of log entries: 3 <br>
+INFO entries: 1 <br>
+First entry timestamp: 2023-07-15 14:12:33  <br>
+Last entry timestamp: 2023-07-15 14:12:33  <br>
 
-WARNING entries: 1
-First entry timestamp: 2023-07-15 14:13:07
-Last entry timestamp: 2023-07-15 14:13:07
+WARNING entries: 1  <br>
+First entry timestamp: 2023-07-15 14:13:07  <br>
+Last entry timestamp: 2023-07-15 14:13:07  <br>
 
-ERROR entries: 1
-First entry timestamp: 2023-07-15 14:14:15
-Last entry timestamp: 2023-07-15 14:14:15
+ERROR entries: 1  <br>
+First entry timestamp: 2023-07-15 14:14:15  <br>
+Last entry timestamp: 2023-07-15 14:14:15  <br>
 
 
 
